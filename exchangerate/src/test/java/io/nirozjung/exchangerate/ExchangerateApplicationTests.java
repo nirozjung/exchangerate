@@ -1,4 +1,4 @@
-package com.businesskeeper.exchangerate;
+package io.nirozjung.exchangerate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
